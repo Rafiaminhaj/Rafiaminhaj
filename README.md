@@ -121,10 +121,27 @@
 
 ---
 
+### 🏆 Community Badges & Recognition
+
+<p align="center">
+  <a href="https://dev.to/rafia_minhaj_2659f96470d2">
+    <img src="https://img.shields.io/badge/DEV.to-Frontend_Challenge_Completion_Badge-black?style=for-the-badge&logo=devto&logoColor=white" alt="DEV.to Frontend Challenge Badge" />
+  </a>&nbsp;
+  <a href="https://dev.to/rafia_minhaj_2659f96470d2">
+    <img src="https://img.shields.io/badge/DEV.to-Writing_Debut-0a0a0a?style=for-the-badge&logo=devto&logoColor=white" alt="Writing Debut Badge" />
+  </a>&nbsp;
+  <a href="https://dev.to/rafia_minhaj_2659f96470d2">
+    <img src="https://img.shields.io/badge/DEV.to-Community_Wellness_Streak-0a0a0a?style=for-the-badge&logo=devto&logoColor=white" alt="Wellness Streak Badge" />
+  </a>
+</p>
+
+---
+
 ### 🤝 Let's Connect!
 
 <p align="center">
   <a href="mailto:rafiaminhaj423@gmail.com"><img src="https://img.shields.io/badge/Email-d4af37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>&nbsp;
   <a href="https://linkedin.com/in/rafiaminhaj"><img src="https://img.shields.io/badge/LinkedIn-d4af37?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/Rafiaminhaj"><img src="https://img.shields.io/badge/GitHub-d4af37?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
+  <a href="https://github.com/Rafiaminhaj"><img src="https://img.shields.io/badge/GitHub-d4af37?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>&nbsp;
+  <a href="https://dev.to/rafia_minhaj_2659f96470d2"><img src="https://img.shields.io/badge/DEV.to-d4af37?style=for-the-badge&logo=devto&logoColor=black" alt="DEV.to" /></a>
 </p>
