@@ -53,6 +53,7 @@
         <li>Model Context Protocol (MCP)</li>
         <li>Git / GitHub Actions</li>
         <li>Microsoft Azure</li>
+        <li>Tuya IoT Cloud APIs</li>
         <li>Supabase / Linux</li>
       </ul>
     </td>
