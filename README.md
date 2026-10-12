@@ -119,6 +119,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://holopin.io/@rafiaminhaj">
+    <img src="https://holopin.me/rafiaminhaj" alt="@rafiaminhaj's Holopin badges" />
+  </a>
+</p>
+
 ---
 
 ### 🤝 Let's Connect!
