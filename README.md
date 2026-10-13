@@ -108,6 +108,12 @@
 ### 🏆 Verified Badges & Recognition
 
 <p align="center">
+  <a href="https://www.hackerrank.com/rafiaminhaj423">
+    <img src="https://img.shields.io/badge/HackerRank-Orchestrate_October_2026_Participant-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://dev.to/rafia_minhaj_2659f96470d2">
     <img src="https://img.shields.io/badge/DEV.to-Frontend_Challenge_Completion_Badge-0a0a0a?style=for-the-badge&logo=devto&logoColor=white" alt="DEV.to Frontend Challenge Badge" />
   </a>&nbsp;
