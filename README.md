@@ -1,143 +1,159 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Rafia+Minhaj;Full+Stack+Developer+%26+AI+Builder;Java+%2F+Spring+Boot+%26+FastAPI;GSSoC+2026+Top+1%25+Contributor" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafiaminhaj&label=Profile+Views&color=d4af37&style=flat-square" alt="Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rafia%20Minhaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="center">
-  Final-year Computer Science undergraduate specializing in <b>Large Language Models (LLMs), RAG architectures, and Java/Spring Boot backend engineering</b>. Actively building intelligent agentic systems, developer tools, and scalable microservices.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🐍+Python+%7C+FastAPI+%7C+Spring+Boot+%7C+AI+%2F+LLMs;🌍+Contributor+%40+python+%7C+php+%7C+Apache;🏆+GSSoC+2026+—+Top+0.8%25+Globally+(Rank+%2329))](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🛠️ Technologies & Skills
+## 🌟 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" valign="top">
-      <h4>🤖 AI & ML</h4>
-      <ul>
-        <li>ChatGPT / OpenAI Codex</li>
-        <li>Generative AI / LLMs</li>
-        <li>RAG Pipelines</li>
-        <li>Prompt Engineering</li>
-        <li>PyTorch / Vector DBs</li>
-      </ul>
-    </td>
-    <td width="25%" valign="top">
-      <h4>⚙️ Backend</h4>
-      <ul>
-        <li>Java / Spring Boot</li>
-        <li>Spring Security (JWT)</li>
-        <li>Python / FastAPI</li>
-        <li>Node.js / Express</li>
-        <li>SQL (PostgreSQL / MySQL)</li>
-      </ul>
-    </td>
-    <td width="25%" valign="top">
-      <h4>💻 Frontend</h4>
-      <ul>
-        <li>ReactJS</li>
-        <li>JavaScript (ES6+)</li>
-        <li>HTML5 / CSS3</li>
-        <li>Tailwind CSS</li>
-        <li>Bruno API / Postman</li>
-      </ul>
-    </td>
-    <td width="25%" valign="top">
-      <h4>🛠️ Tools & Cloud</h4>
-      <ul>
-        <li>Docker / Kubernetes</li>
-        <li>Model Context Protocol (MCP)</li>
-        <li>Git / GitHub Actions</li>
-        <li>Microsoft Azure</li>
-        <li>Tuya IoT Cloud APIs</li>
-        <li>Supabase / Linux</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```python
+rafia = {
+    "name"       : "Rafia Minhaj",
+    "role"       : "Python & AI Backend Developer",
+    "education"  : "B.Tech CSE — CIT Ranchi (2027)",
+    "location"   : "Ranchi, Jharkhand, India 🇮🇳",
+    "focus"      : ["LLMs", "RAG Pipelines", "FastAPI", "Spring Boot"],
+    "open_source": "Top 0.8% GSSoC 2026 — Rank #29 Globally 🏆",
+    "contrib_to" : ["python/python-insider-blog", "php/php-src", "apache/kafka"],
+    "fun_fact"   : "I fix typos in CPython & PHP official repos! 🐍🐘"
+}
+```
 
 ---
 
-### 🚀 Featured Projects
+## 🏆 Achievements & Recognition
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Rafiaminhaj/archscale-lead-engine">ArchScale AutoLead Engine</a></h4>
-      <p>Autonomous AI lead qualification and voice execution engine built for ArchScale Guild Hackathon AS-05 + AS-03.</p>
-      <code>Python</code> <code>FastAPI</code> <code>Gemini AI</code> <code>Vercel</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💳 <a href="https://github.com/Rafiaminhaj/spring-wallet-api">spring-wallet-api</a></h4>
-      <p>A high-performance Spring Boot wallet microservice secured with JWT and integrated with custom Model Context Protocol (MCP) server endpoints.</p>
-      <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>MCP</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💼 <a href="https://github.com/Rafiaminhaj/ai-job-tracker">CodeKitchen AI Job Tracker</a></h4>
-      <p>All-in-one AI career portal with ATS Resume Optimizer, Zapier Webhooks, AI Email Drafter, and Playwright automation.</p>
-      <code>Python</code> <code>FastAPI</code> <code>SQLite</code> <code>Vercel</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/Rafiaminhaj/WireVibe-">WireVibe</a></h4>
-      <p>Converts hand-drawn website wireframe drawings or sketch uploads directly into pixel-perfect, deployment-ready HTML/CSS code.</p>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Gemini API</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🍲 <a href="https://github.com/Rafiaminhaj/jharkhand-comfort-food">The Jharkhand Kitchen</a></h4>
-      <p>Heritage culinary landing page submission awarded the official DEV Community Frontend Challenge Completion Badge.</p>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 <a href="https://gssoc.girlscript.org/">GSSoC '26 Contribution</a></h4>
-      <p><b>Top 0.8% Globally Ranked (#29)</b> contributor to open source, developing full-stack features and AI notebooks.</p>
-      <code>Open Source</code> <code>GitHub</code> <code>RAG</code> <code>Python</code>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🏅 Achievement | 📊 Details |
+|---|---|
+| 🥇 **GSSoC 2026** | Top 0.8% Globally — **Rank #29** out of 10,000+ |
+| 🐍 **CPython Contributor** | PR merged in `python/python-insider-blog` |
+| 🐘 **PHP Contributor** | PR open in `php/php-src` (#24334) |
+| 🎃 **Hacktoberfest 2026** | 4+ merged PRs across open source repos |
+| 🏗️ **CUBE Buildathon 2026** | Round 2 Completion Certificate |
+| 🎯 **TCS HackQuest S11** | Registered — Batch 2027 |
+
+</div>
 
 ---
 
-### 🏆 Verified Badges & Recognition
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.hackerrank.com/rafiaminhaj423">
-    <img src="https://img.shields.io/badge/HackerRank-Orchestrate_October_2026_Participant-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Orchestrate October 2026" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://dev.to/rafia_minhaj_2659f96470d2">
-    <img src="https://img.shields.io/badge/DEV.to-Frontend_Challenge_Completion_Badge-0a0a0a?style=for-the-badge&logo=devto&logoColor=white" alt="DEV.to Frontend Challenge Badge" />
-  </a>&nbsp;
-  <a href="https://dev.to/rafia_minhaj_2659f96470d2">
-    <img src="https://img.shields.io/badge/DEV.to-Writing_Debut-0a0a0a?style=for-the-badge&logo=devto&logoColor=white" alt="Writing Debut Badge" />
-  </a>&nbsp;
-  <a href="https://dev.to/rafia_minhaj_2659f96470d2">
-    <img src="https://img.shields.io/badge/DEV.to-Community_Wellness_Streak-0a0a0a?style=for-the-badge&logo=devto&logoColor=white" alt="Wellness Streak Badge" />
-  </a>
-</p>
+**AI / ML**
 
-<p align="center">
-  <a href="https://holopin.io/@rafiaminhaj">
-    <img src="https://holopin.me/rafiaminhaj" alt="@rafiaminhaj's Holopin badges" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Database & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+**Frontend & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
 
 ---
 
-### 🤝 Let's Connect!
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="mailto:rafiaminhaj423@gmail.com"><img src="https://img.shields.io/badge/Email-d4af37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>&nbsp;
-  <a href="https://linkedin.com/in/rafia-minhaj-69317b308/"><img src="https://img.shields.io/badge/LinkedIn-d4af37?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/Rafiaminhaj"><img src="https://img.shields.io/badge/GitHub-d4af37?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>&nbsp;
-  <a href="https://dev.to/rafia_minhaj_2659f96470d2"><img src="https://img.shields.io/badge/DEV.to-d4af37?style=for-the-badge&logo=devto&logoColor=black" alt="DEV.to" /></a>
-</p>
+<div align="center">
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🤖 **[DevPulse AI](https://github.com/Rafiaminhaj/devpulse-ai)** | Python · LangChain · FastAPI | 3-agent autonomous PR auditing engine |
+| 💼 **[AI Job Tracker](https://github.com/Rafiaminhaj/ai-job-tracker)** | Python · FastAPI · SQLite | ATS optimizer + AI email drafter |
+| 🔍 **[AI Job Portal](https://github.com/Rafiaminhaj/ai-job-portal-tinyfish)** | Python · TinyFish API | Live AI-powered job search portal |
+| 💳 **[Spring Wallet API](https://github.com/Rafiaminhaj/spring-wallet-api)** | Java · Spring Boot · JWT | High-performance wallet microservice |
+| 🌐 **[WireVibe](https://github.com/Rafiaminhaj/WireVibe)** | HTML · CSS · Gemini API | Wireframe → HTML/CSS converter |
+| 🍲 **[Jharkhand Kitchen](https://github.com/Rafiaminhaj/jharkhand-kitchen)** | HTML · CSS · JS | DEV.to Frontend Challenge winner |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafiaminhaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiaminhaj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rafiaminhaj&theme=tokyonight&hide_border=true&background=0D1117&dates=6AD3F7&ring=F05032&fire=F05032&currStreakLabel=6AD3F7)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+```
+🐍 python/python-insider-blog  →  PR #159 : Fix 8 typos in blog posts
+🐘 php/php-src                 →  PR #24334: Fix 3 typos in PHP docs  
+🎵 Gudsfile/jukebox            →  PR #392 : Fix run command in AGENTS.md
+☕ apache/kafka                →  Active contributor
+📦 firstcontributions          →  Helping beginners in open source
+```
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rafiaminhaj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Rafia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafiaminhaj&bg_color=0D1117&color=6AD3F7&line=F05032&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafia-minhaj-69317b308)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafiaminhaj423@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafiaminhaj)
+[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rafiaminhaj)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rafiaminhaj&label=Profile%20Views&color=6AD3F7&style=flat-square)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
