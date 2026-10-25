@@ -17,6 +17,22 @@
 
 ---
 
+
+### 🚀 Engineering Final-Year & Major Project Kit
+
+<div align="center">
+
+[![AI Career & Job Tracker Major Project](https://img.shields.io/badge/%F0%9F%92%BB_AI_Job_Tracker:_Major_Project_Kit_(Code_%2B_IEEE_Report_%2B_Viva_Q%26A)-Instant_UPI_Download_(%E2%82%B9499)-2ea44f?style=for-the-badge)](https://topmate.io/rafia_minhaj)
+
+> **Complete B.Tech / BCA / MCA Submission Kit (2025–2026)**  
+> Includes 1-click running Python FastAPI code (`run.bat`), 8-Chapter IEEE Project Report PDF, Top 25 Viva-Voce defense Q&A guide, and presentation deck.
+> 
+> [👉 **Get Instant Access via UPI / Card on Topmate (₹499)**](https://topmate.io/rafia_minhaj)
+
+</div>
+
+---
+
 ## 📖 Featured Developer Guides
 
 <div align="center">
