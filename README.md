@@ -8,6 +8,30 @@
 
 ---
 
+
+<br/>
+
+[![Python Interview Cheat Sheet](https://img.shields.io/badge/%F0%9F%93%98_Python_Interview_Cheat_Sheet_2026-Instant_Download-FF5E5B?style=for-the-badge&logo=python&logoColor=white)](https://payhip.com/b/PgoZz)
+
+</div>
+
+---
+
+## 📖 Featured Developer Guides
+
+<div align="center">
+
+[![Python & Coding Interview Cheat Sheet](https://img.shields.io/badge/%F0%9F%90%8D_The_Ultimate_Python_%26_Coding_Interview_Cheat_Sheet_(2026)-Get_Your_Copy_on_Payhip-2ea44f?style=for-the-badge&logo=python&logoColor=white)](https://payhip.com/b/PgoZz)
+
+> **Crack your next technical & AI interviews!**  
+> Comprehensive 2026 guide: CPython runtime & GIL, 6 core algorithmic patterns, JWT authentication architecture, and STAR interview answering formula.
+> 
+> [👉 **Get the Instant PDF Download ($5.00)**](https://payhip.com/b/PgoZz)
+
+</div>
+
+---
+
 ## 🌟 About Me
 
 ```python
