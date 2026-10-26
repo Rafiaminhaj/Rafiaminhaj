@@ -125,6 +125,7 @@ rafia = {
 
 | Project | Tech | Description |
 |---------|------|-------------|
+| 🎙️ **[VoiceGen AI](https://github.com/Rafiaminhaj/voicegen-ai)** | Python · FastAPI · Web Audio | Neural voice cloning & multilingual TTS studio (HeyGen-inspired) |
 | 🤖 **[DevPulse AI](https://github.com/Rafiaminhaj/devpulse-ai)** | Python · LangChain · FastAPI | 3-agent autonomous PR auditing engine |
 | 💼 **[AI Job Tracker](https://github.com/Rafiaminhaj/ai-job-tracker)** | Python · FastAPI · SQLite | ATS optimizer + AI email drafter |
 | 🔍 **[AI Job Portal](https://github.com/Rafiaminhaj/ai-job-portal-tinyfish)** | Python · TinyFish API | Live AI-powered job search portal |
